@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">💻 Transição para Desenvolvimento Back-End<br>Após 6 anos de experiência na área de Logística, estou em transição de carreira para Desenvolvimento Back-End, unindo minha expertise em processos e projetos à paixão por tecnologia.<br><br>📚 Formação em andamento:<br><br>Análise e Desenvolvimento de Sistemas | Ciência da Computação<br>Pós-graduação em Segurança e Defesa Cibernética | Estrtura e Gestão de Redes de Computadores<br><br>🚀 Principais tecnologias:<br><br>HTML5  | CSS3 | JavaScript | Python | Java  | GO (Golang)  | NodeJs I  MySQL  I React I SpringBoot I Docker <br>🌟 Entusiasta por soluções eficientes, escaláveis e seguras.</p>
+<p align="left">💻 Transição para Desenvolvimento Back-End<br>Após 6 anos de experiência na área de Logística, estou em transição de carreira para Desenvolvimento Back-End, unindo minha expertise em processos e projetos à paixão por tecnologia.<br><br>📚 Formação em andamento:<br><br>Análise e Desenvolvimento de Sistemas | Ciência da Computação<br>Pós-graduação em Segurança e Defesa Cibernética | Estrtura e Gestão de Redes de Computadores | Técnico em Análise e Desenvolvimento de Sistemas<br><br>🚀 Principais tecnologias:<br><br>HTML5  | CSS3 | JavaScript | Python | Java  | GO (Golang)  | NodeJs I  MySQL  I React I SpringBoot I Docker <br>🌟 Entusiasta por soluções eficientes, escaláveis e seguras.</p>
 
 ###
 
@@ -69,8 +69,6 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
 </div>
 
@@ -101,13 +99,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HagataMendes&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=false&order=2" height="128" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HagataMendes&radius=16&theme=redical&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img align="right" height="167" src="https://i.gifer.com/7LNJ.gif"  />
-
-###
-
-<img src="https://raw.githubusercontent.com/HagataMendes/HagataMendes/output/snake.svg" alt="Snake animation" />
 
 ###
