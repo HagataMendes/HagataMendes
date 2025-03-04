@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">💻 Transição para Desenvolvimento Back-End<br>Após 6 anos de experiência na área de Logística, estou em transição de carreira para Desenvolvimento Back-End, unindo minha expertise em processos e projetos à paixão por tecnologia.<br><br>📚 Formação em andamento:<br><br>Análise e Desenvolvimento de Sistemas | Ciência da Computação<br>Pós-graduação em Segurança e Defesa Cibernética | Estrtura e Gestão de Redes de Computadores | Técnico em Análise e Desenvolvimento de Sistemas<br><br>🚀 Principais tecnologias:<br><br>HTML5  | CSS3 | JavaScript | Python | Java  | GO (Golang)  | NodeJs I  MySQL  I React I SpringBoot I Docker <br>🌟 Entusiasta por soluções eficientes, escaláveis e seguras.</p>
+<p align="left">💻 Transição para Desenvolvimento Back-End<br>Após 6 anos de experiência na área de Logística, estou em transição de carreira para Desenvolvimento Back-End, unindo minha expertise em processos e projetos à paixão por tecnologia.<br><br>📚 Formação em andamento:<br><br>Análise e Desenvolvimento de Sistemas | Ciência da Computação<br>Pós-graduação em Segurança e Defesa Cibernética | Estrutura e Gestão de Redes de Computadores | Técnico em Análise e Desenvolvimento de Sistemas<br><br>🚀 Principais tecnologias:<br><br>HTML5  | CSS3 | JavaScript | Python | Java  | GO (Golang)  | NodeJs I  MySQL  I React I SpringBoot I Docker <br>🌟 Entusiasta por soluções eficientes, escaláveis e seguras.</p>
 
 ###
 
@@ -97,7 +97,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HagataMendes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HagataMendes&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HagataMendes&radius=16&theme=redical&area=true&order=5" height="290" alt="activity-graph graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HagataMendes&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"  />
 </div>
 
 ###
