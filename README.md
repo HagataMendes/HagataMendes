@@ -4,7 +4,7 @@
 
 ###
 
-<h6 align="left">Meu nome é Hágata Mendes tenho 23 anos e sou Desenvolvedora Back End Jr e moro em São Paulo Zona Leste ♥</h6>
+<h5 align="left">Meu nome é Hágata Mendes tenho 23 anos e sou Desenvolvedora Back End Jr e moro em São Paulo Zona Leste ♥</h5>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">💻 Transição para Desenvolvimento Back-End<br>Após 6 anos de experiência na área de Logística, estou em transição de carreira para Desenvolvimento Back-End, unindo minha expertise em processos e projetos à paixão por tecnologia.<br><br>📚 Formação em andamento:<br><br>Análise e Desenvolvimento de Sistemas | Ciência da Computação<br>Pós-graduação em Segurança e Defesa Cibernética | Estrutura e Gestão de Redes de Computadores | Técnico em Análise e Desenvolvimento de Sistemas<br><br>🚀 Principais tecnologias:<br><br>HTML5  | CSS3 | JavaScript | Python | Java  | GO (Golang)  | NodeJs I  MySQL  I React I SpringBoot I Docker <br>🌟 Entusiasta por soluções eficientes, escaláveis e seguras.</p>
+<p align="left">💻 Transição para Desenvolvimento Back-End<br>Após 6 anos de experiência na área de Logística, estou em transição de carreira para Desenvolvimento Back-End, unindo minha expertise em processos e projetos à paixão por tecnologia.<br><br>📚 Formação em andamento:<br><br>Análise e Desenvolvimento de Sistemas | Ciência da Computação<br>Pós-graduação em Segurança e Defesa Cibernética | Estrutura e Gestão de Redes de Computadores | Técnico em Análise e Desenvolvimento de Sistemas<br><br>🚀 Principais tecnologias:<br><br>HTML5  | CSS3 | JavaScript | Python | Java  | GO (Golang)  | C# I Angular | SQL Server I SpringBoot I <br>🌟 Entusiasta por soluções eficientes, escaláveis e seguras.</p>
 
 ###
 
@@ -37,13 +37,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
 </div>
 
 ###
@@ -58,8 +58,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
 </div>
 
 ###
@@ -95,8 +93,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HagataMendes&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HagataMendes&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HagataMendes&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=codeSTACKr&hide_border=false&order=2" height="153" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=HagataMendes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=HagataMendes&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"  />
 </div>
 
