@@ -16,6 +16,12 @@
 
 ###
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HagataMendes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=codeSTACKr&hide_border=true&order=2" height="200" alt="languages graph"  />
+</div>
+
+###
+
 <h2 align="left">My Skills</h2>
 
 ###
@@ -88,14 +94,6 @@
   <a href="mailto:hagatamendes2017@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HagataMendes&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=codeSTACKr&hide_border=false&order=2" height="153" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=HagataMendes&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HagataMendes&radius=16&theme=redical&area=true&order=5&hide_title=false&hide_border=true" height="290" alt="activity-graph graph"  />
 </div>
 
 ###
