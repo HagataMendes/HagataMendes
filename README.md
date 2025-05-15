@@ -17,7 +17,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HagataMendes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=codeSTACKr&hide_border=true&order=2" height="200" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HagataMendes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=codeSTACKr&hide_border=true&order=2" height="238" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HagataMendes&radius=3&theme=dracula&area=true&order=5&hide_title=false&hide_border=true" height="260" alt="activity-graph graph"  />
 </div>
 
 ###
