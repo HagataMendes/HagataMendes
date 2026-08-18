@@ -12,7 +12,13 @@
 
 ###
 
-<p align="left">💻 Transição para Desenvolvimento Back-End<br>Após 6 anos de experiência na área de Logística, estou em transição de carreira para Desenvolvimento Back-End, unindo minha expertise em processos e projetos à paixão por tecnologia.<br><br>📚 Formação em andamento e Concluidas<br><br>Análise e Desenvolvimento de Sistemas | Ciência da Computação<br>Pós-graduação em Segurança e Defesa Cibernética | Estrutura e Gestão de Redes de Computadores | Técnico em Análise e Desenvolvimento de Sistemas<br><br>🚀 Principais tecnologias:<br><br>HTML5  | CSS3 | JavaScript | Python | Java  | GO (Golang)  | C# I .NET | Angular | SQL Server I SpringBoot I <br>🌟 Entusiasta por soluções eficientes, escaláveis e seguras.</p>
+<p align="left">💻 Analista de Dados Sênior com 8 anos de experiência em Analytics, Business Intelligence, Estratégia de Dados e 
+transformação digital, atuando em empresas multinacionais dos segmentos de Marketplace, Logística e Tecnologia. 
+Especialista em transformar dados complexos em decisões estratégicas por meio de SQL, Python, Power BI e automações 
+orientadas por IA. Atualmente desenvolvo produtos digitais SaaS para a área de dados, integrando Inteligência Artificial, 
+chatbots, automações, arquitetura de dados e experiências de aprendizagem personalizadas. Possuo sólida experiência em 
+CRM Analytics, Pricing, ETL, modelagem de dados, indicadores executivos e otimização de processos, sempre com foco em 
+gerar impacto para o negócio, inovação e tomada de decisão baseada em dados.<br><br>📚 Formação Concluidas<br><br>Análise e Desenvolvimento de Sistemas |o<br>Pós-graduação em Segurança e Defesa Cibernética | Estrutura e Gestão de Redes de Computadores | Técnico em Análise e Desenvolvimento de Sistemas<br><br>🚀 Principais tecnologias:<br><br>HTML5  | CSS3 | JavaScript | Python | Java  | GO (Golang)  | C# I .NET | Angular | SQL Server I SpringBoot I <br>🌟 Entusiasta por soluções eficientes, escaláveis e seguras.</p>
 
 ###
 
