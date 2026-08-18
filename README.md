@@ -18,7 +18,7 @@ Especialista em transformar dados complexos em decisões estratégicas por meio 
 orientadas por IA. Atualmente desenvolvo produtos digitais SaaS para a área de dados, integrando Inteligência Artificial, 
 chatbots, automações, arquitetura de dados e experiências de aprendizagem personalizadas. Possuo sólida experiência em 
 CRM Analytics, Pricing, ETL, modelagem de dados, indicadores executivos e otimização de processos, sempre com foco em 
-gerar impacto para o negócio, inovação e tomada de decisão baseada em dados.<br><br>📚 Formação Concluidas<br><br>Análise e Desenvolvimento de Sistemas |o<br>Pós-graduação em Segurança e Defesa Cibernética | Estrutura e Gestão de Redes de Computadores | Técnico em Análise e Desenvolvimento de Sistemas<br><br>🚀 Principais tecnologias:<br><br>HTML5  | CSS3 | JavaScript | Python | Java  | GO (Golang)  | C# I .NET | Angular | SQL Server I SpringBoot I <br>🌟 Entusiasta por soluções eficientes, escaláveis e seguras.</p>
+gerar impacto para o negócio, inovação e tomada de decisão baseada em dados.<br><br>📚 Formação Concluidas<br><br>Análise e Desenvolvimento de Sistemas | <br>Pós-graduação em Segurança e Defesa Cibernética | Estrutura e Gestão de Redes de Computadores | MBA Engenharia de Software USP <br><br>🚀 Principais tecnologias:<br><br>HTML5  | CSS3 | JavaScript | Python | Java  | GO (Golang)  | C# I .NET | | SQL Server I SpringBoot I <br>🌟 Entusiasta por soluções eficientes, escaláveis e seguras.</p>
 
 ###
 
