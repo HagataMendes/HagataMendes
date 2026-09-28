@@ -1,105 +1,106 @@
-<br clear="both">
+<h1 align="center">Hágata Mendes</h1>
 
-<h1 align="left">Olá ! Seja Bem Vindo (a) ao meu Github</h1>
+<p align="center">
+  <b>Analista de Dados Sênior · Senior Data Analyst</b><br>
+  Analytics · BI · CRM & Pricing · Automação com IA · Produtos de Dados
+</p>
 
-###
+<p align="center">
+  <a href="https://www.linkedin.com/in/h%C3%A1gata-mendes-808b73180/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:hagatamendes2017@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
+  <a href="https://w.app/g3INL9" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+</p>
 
-<h5 align="left">Meu nome é Hágata Mendes tenho 25 anos e sou Analista de Dados Sr e moro em São Paulo Zona Leste ♥</h5>
+---
 
-###
+## 👩‍💻 Sobre mim
 
-<h2 align="left">About me</h2>
+Sou analista de dados com **8 anos de experiência** em multinacionais de **Marketplace, Logística e Tecnologia** (Anjun Express, SHEIN, DHL, JSL/Grupo Simpar). Meu trabalho é transformar dados complexos em decisões de negócio com **SQL, Python e Power BI**, e automatizar o que é manual com **IA**.
 
-###
+Hoje atuo com **CRM Analytics, Pricing e Pós-Venda** e, em paralelo, construo **produtos digitais de dados**: plataformas SaaS, agentes de IA, chatbots e pipelines de automação.
 
-<p align="left">💻 Analista de Dados Sênior com 8 anos de experiência em Analytics, Business Intelligence, Estratégia de Dados e 
-transformação digital, atuando em empresas multinacionais dos segmentos de Marketplace, Logística e Tecnologia. 
-Especialista em transformar dados complexos em decisões estratégicas por meio de SQL, Python, Power BI e automações 
-orientadas por IA. Atualmente desenvolvo produtos digitais SaaS para a área de dados, integrando Inteligência Artificial, 
-chatbots, automações, arquitetura de dados e experiências de aprendizagem personalizadas. Possuo sólida experiência em 
-CRM Analytics, Pricing, ETL, modelagem de dados, indicadores executivos e otimização de processos, sempre com foco em 
-gerar impacto para o negócio, inovação e tomada de decisão baseada em dados.<br><br>📚 Formação Concluidas<br><br>Análise e Desenvolvimento de Sistemas | <br>Pós-graduação em Segurança e Defesa Cibernética | Estrutura e Gestão de Redes de Computadores | MBA Engenharia de Software USP <br><br>🚀 Principais tecnologias:<br><br>HTML5  | CSS3 | JavaScript | Python | Java  | GO (Golang)  | C# I .NET | | SQL Server I SpringBoot I <br>🌟 Entusiasta por soluções eficientes, escaláveis e seguras.</p>
+- 🔭 Atualmente: Analista de Dados Sênior | CRM Pricing & Pós-Venda na **Anjun Express**
+- 🌱 Estudando: **AWS Cloud Practitioner** (certificação prevista para dez/2026) e MBA em Engenharia de Software na **USP Esalq**
+- 🎯 Interesse: dados e IA aplicados a **bancos, fintechs e meios de pagamento**
+- 📍 São Paulo, SP
 
-###
+## 📈 Impacto em números
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HagataMendes&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=9&theme=codeSTACKr&hide_border=true&order=2" height="229" alt="languages graph"  />
-</div>
+| Resultado | Onde |
+|---|---|
+| **~80%** dos controles manuais migrados para dashboards automatizados | Anjun Express |
+| **15+ integrações sistêmicas** implantadas, atendendo 4 áreas de negócio | Anjun Express |
+| **+90%** de produtividade operacional com KPIs e dashboards | JSL / Grupo Simpar |
+| **~70%** de ganho de eficiência nas análises financeiras | JSL / Grupo Simpar |
+| **~30%** a mais de confiabilidade das informações | DHL Global Forwarding |
+| **+30 colaboradores** capacitados em análise de dados | Anjun Express |
 
-###
+## 🚀 Projetos em destaque
 
-<h2 align="left">My Skills</h2>
+### 🏦 HM Bank: Plataforma de IA Multiagente
+Protótipo full stack de uma plataforma de IA para o setor financeiro: front-end em **React + TypeScript**, orquestração de agentes especializados (jurídico, financeiro, CRM, engenharia e dados) e **RAG com citação de fonte**. A arquitetura serverless é simulada (API Gateway, Lambda, OpenSearch, RDS, DynamoDB, S3/SQS) e tem fluxos síncronos e assíncronos documentados.
 
-###
+🔗 [Protótipo interativo](https://claude.ai/artifact/N695CnMqM7ZHDrm5o1JUSM) · [Documentação técnica](https://claude.ai/artifact/NrrHjmd19PBve1i7NWhYNX)
 
-<p align="left">Linguagens & Frameworks</p>
+### 💳 Plataforma de Inteligência Financeira e Análise de Clientes (MVP)
+Solução analítica apoiada em três pilares: **Inteligência Financeira, Ofertas Inteligentes e Planejamento Financeiro**. Os pipelines de dados e o disparo de comunicações são orquestrados com **n8n**, e a IA gera insights personalizados a partir do perfil de cada cliente.
 
-###
+🔗 [Protótipo funcional](https://lnkd.in/dT_4TEqc) · [Fluxo e arquitetura](https://lnkd.in/dQJfCWSa)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-</div>
+### 🎓 Plataforma SaaS para Formação de Profissionais de Dados
+Plataforma construída com **Lovable, Supabase e IA Generativa**, com chatbot, gamificação e trilhas personalizadas. Tem **mais de 100 alunos ativos**.
 
-###
+🔗 [Conheça a plataforma](https://www.linkedin.com/feed/update/urn:li:activity:7485314042601824256/)
 
-<p align="left">DevOps</p>
+## 🛠️ Stack
 
-###
+**Análise & BI**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=databricks&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/DAX%20%26%20Power%20Query-4B4B4B?style=flat-square" alt="DAX e Power Query">
+  <img src="https://img.shields.io/badge/Excel%20%2F%20VBA-217346?style=flat-square&logo=microsoftexcel&logoColor=white" alt="Excel e VBA">
+  <img src="https://img.shields.io/badge/Google%20Sheets-34A853?style=flat-square&logo=googlesheets&logoColor=white" alt="Google Sheets">
+</p>
 
-###
+**Dados, Automação & IA**
 
-<p align="left">IDE</p>
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n">
+  <img src="https://img.shields.io/badge/ETL%20%26%20Data%20Quality-555555?style=flat-square" alt="ETL e Data Quality">
+  <img src="https://img.shields.io/badge/IA%20Generativa%20%26%20RAG-6E40C9?style=flat-square" alt="IA Generativa e RAG">
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS">
+</p>
 
-###
+**Desenvolvimento**
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-</div>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Java%20%2F%20Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" alt="Java e Spring Boot">
+  <img src="https://img.shields.io/badge/C%23%20%2F%20.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C# e .NET">
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go">
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+</p>
 
-###
+**Sistemas & Métodos:** SAP · WMS · JDA · JDE · Ágil · Lean Six Sigma · BPMN
 
-<h3 align="left">My Contact</h3>
+## 🎓 Formação
 
-###
+- **MBA em Engenharia de Software**, USP Esalq *(em andamento, previsão 06/2027)*
+- **Análise e Desenvolvimento de Sistemas**, Unicid *(2026)*
+- **Pós-graduação em Segurança e Defesa Cibernética**, Uninter *(2025)*
+- **Pós-graduação em Estrutura e Gestão de Redes de Computadores**, Uninter *(2025)*
+- **Tecnólogo em Logística**, UBC *(2021)*
 
-<div align="left">
-  <a href="https://www.linkedin.com/in/h%C3%A1gata-mendes-808b73180/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://w.app/g3INL9" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
-  </a>
-  <a href="mailto:hagatamendes2017@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-</div>
+---
 
-###
+<p align="center">
+  <img src="https://raw.githubusercontent.com/HagataMendes/HagataMendes/output/github-contribution-grid-snake-dark.svg" alt="Animação de contribuições" width="100%">
+</p>
+
+<p align="center"><i>Aberta a oportunidades em Dados, Analytics e IA. Vamos conversar! 💬</i></p>
