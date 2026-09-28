@@ -44,7 +44,7 @@ Protótipo full stack de uma plataforma de IA para o setor financeiro: front-end
 ### 💳 Plataforma de Inteligência Financeira e Análise de Clientes (MVP)
 Solução analítica apoiada em três pilares: **Inteligência Financeira, Ofertas Inteligentes e Planejamento Financeiro**. Os pipelines de dados e o disparo de comunicações são orquestrados com **n8n**, e a IA gera insights personalizados a partir do perfil de cada cliente.
 
-🔗 [Protótipo funcional](https://lnkd.in/dT_4TEqc) · [Fluxo e arquitetura](https://lnkd.in/dQJfCWSa)
+🔗 [Repositório](https://github.com/HagataMendes/hmsbank) · [Protótipo funcional](https://lnkd.in/dT_4TEqc) · [Fluxo e arquitetura](https://lnkd.in/dQJfCWSa)
 
 ### 🎓 Plataforma SaaS para Formação de Profissionais de Dados
 Plataforma construída com **Lovable, Supabase e IA Generativa**, com chatbot, gamificação e trilhas personalizadas. Tem **mais de 100 alunos ativos**.
