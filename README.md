@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/h%C3%A1gata-mendes-808b73180/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/hagatamendes/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:hagatamendes2017@gmail.com"><img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"></a>
   <a href="https://w.app/g3INL9" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
@@ -21,7 +21,6 @@ Hoje atuo com **CRM Analytics, Pricing e Pós-Venda** e, em paralelo, construo *
 
 - 🔭 Atualmente: Analista de Dados Sênior | CRM Pricing & Pós-Venda na **Anjun Express**
 - 🌱 Estudando: **AWS Cloud Practitioner** (certificação prevista para dez/2026) e MBA em Engenharia de Software na **USP Esalq**
-- 🎯 Interesse: dados e IA aplicados a **bancos, fintechs e meios de pagamento**
 - 📍 São Paulo, SP
 
 ## 📈 Impacto em números
