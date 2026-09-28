@@ -39,7 +39,7 @@ Hoje atuo com **CRM Analytics, Pricing e Pós-Venda** e, em paralelo, construo *
 ### 🏦 HM Bank: Plataforma de IA Multiagente
 Protótipo full stack de uma plataforma de IA para o setor financeiro: front-end em **React + TypeScript**, orquestração de agentes especializados (jurídico, financeiro, CRM, engenharia e dados) e **RAG com citação de fonte**. A arquitetura serverless é simulada (API Gateway, Lambda, OpenSearch, RDS, DynamoDB, S3/SQS) e tem fluxos síncronos e assíncronos documentados.
 
-🔗 [Protótipo interativo](https://claude.ai/artifact/N695CnMqM7ZHDrm5o1JUSM) · [Documentação técnica](https://claude.ai/artifact/NrrHjmd19PBve1i7NWhYNX)
+🔗 [Repositório](https://github.com/HagataMendes/hm-bank-plataforma-ia) · [Protótipo interativo](https://claude.ai/artifact/N695CnMqM7ZHDrm5o1JUSM) · [Documentação técnica](https://claude.ai/artifact/NrrHjmd19PBve1i7NWhYNX)
 
 ### 💳 Plataforma de Inteligência Financeira e Análise de Clientes (MVP)
 Solução analítica apoiada em três pilares: **Inteligência Financeira, Ofertas Inteligentes e Planejamento Financeiro**. Os pipelines de dados e o disparo de comunicações são orquestrados com **n8n**, e a IA gera insights personalizados a partir do perfil de cada cliente.
